@@ -6,3 +6,4 @@ structlog==23.2.0
 python-dotenv==1.0.1
 orjson==3.10.7
 pytest==8.1.0
+cryptography==42.0.5
