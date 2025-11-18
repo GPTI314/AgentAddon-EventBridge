@@ -14,6 +14,7 @@ class PublishRequest(BaseModel):
 class PublishResponse(BaseModel):
     id: str
     status: str
+    correlation_id: str | None = None
 
 class EventListResponse(BaseModel):
     total: int
