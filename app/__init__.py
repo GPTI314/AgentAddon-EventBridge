@@ -1,0 +1,1 @@
+"""EventBridge Addon package init."""
